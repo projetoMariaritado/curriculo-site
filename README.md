@@ -1,3 +1,3 @@
 #CURRICULO 1.2
 
-http://projetomariaritado.github.io./curriculo-site
+ https://projetomariaritado.github.io/curriculo-site/
