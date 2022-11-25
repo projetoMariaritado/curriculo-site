@@ -1,2 +1,2 @@
 #CURRICULO 1.2
-http://projetomariaritado.github.ioffff/
+https://projetomariaritado.github.io/ffff
